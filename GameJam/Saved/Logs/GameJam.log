@@ -1686,3 +1686,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.30-17.48.35:253][327]LogSavePackage: Moving '../../../../../Projects/git/GameJam/GameJam/Saved/MainMenu24DC4D7B48588E642D12F9AF928BB405.tmp' to '../../../../../Projects/git/GameJam/GameJam/Content/Maps/MainMenu.umap'
 [2020.03.30-17.48.35:276][327]AssetCheck: New page: Asset Save: MainMenu
 [2020.03.30-17.48.35:276][327]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.03.30-17.58.35:209][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.03.30-17.58.35:211][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.042
+[2020.03.30-17.58.35:211][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_BasicGameMode] ([1] browsable assets)...
+[2020.03.30-17.58.35:211][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_BasicGameMode]
+[2020.03.30-17.58.35:225][339]LogSavePackage: Moving '../../../../../Projects/git/GameJam/GameJam/Saved/BP_BasicGameMode_Auto111C651654E058D5F296FD08F242D34CC.tmp' to '../../../../../Projects/git/GameJam/GameJam/Saved/Autosaves/Game/Blueprints/GameMode/BP_BasicGameMode_Auto1.uasset'
+[2020.03.30-17.58.35:225][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_BasicPlayerController] ([1] browsable assets)...
+[2020.03.30-17.58.35:225][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_BasicPlayerController]
+[2020.03.30-17.58.35:232][339]LogSavePackage: Moving '../../../../../Projects/git/GameJam/GameJam/Saved/BP_BasicPlayerController_Auto1E9114E7049AB5FA926E8129EF98C2567.tmp' to '../../../../../Projects/git/GameJam/GameJam/Saved/Autosaves/Game/Blueprints/GameMode/BP_BasicPlayerController_Auto1.uasset'
+[2020.03.30-17.58.35:232][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_BasicGameState] ([1] browsable assets)...
+[2020.03.30-17.58.35:232][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_BasicGameState]
+[2020.03.30-17.58.35:239][339]LogSavePackage: Moving '../../../../../Projects/git/GameJam/GameJam/Saved/BP_BasicGameState_Auto18B9648B849343CB57F0BE5A556FFD28C.tmp' to '../../../../../Projects/git/GameJam/GameJam/Saved/Autosaves/Game/Blueprints/GameMode/BP_BasicGameState_Auto1.uasset'
+[2020.03.30-17.58.35:239][339]LogFileHelpers: Auto-saving content packages took 0.028
