@@ -76,3 +76,4 @@ DerivedDataCache/*
 GameJam/Saved/Logs/GameJam.log
 GameJam/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 GameJam/Saved/Autosaves/PackageRestoreData.json
+*.runtime-xml
